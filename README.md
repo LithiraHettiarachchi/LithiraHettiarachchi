@@ -18,5 +18,5 @@ I enjoy building clean, scalable applications and learning new technologies.
 
 ---
 
-### 📊 GitHub Stats
-![Lithira's GitHub stats](https://github-readme-stats.vercel.app/api?username=lithirahettiarachchi&show_icons=true&theme=default)
+![Profile Views](https://komarev.com/ghpvc/?username=lithirahettiarachchi&label=Profile%20views&color=0e75b6&style=flat)
+
